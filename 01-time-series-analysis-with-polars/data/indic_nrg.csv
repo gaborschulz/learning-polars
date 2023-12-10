@@ -1,0 +1,37 @@
+indicator_name,id
+imports,B_100300
+imports_from_eu,B_100320
+exports,B_100500
+exports_to_EU,B_100510
+gross_inland_consumption,B_100900
+Used for pumped storage,17_107302
+distribution_losses,B_101400
+available_for_internal_market,B_107200
+gross_electricity_generation_total,15_107000
+gross_electricity_generation_hydro,15_107001
+gross_electricity_generation_geothermal,15_107002
+gross_electricity_generation_nuclear,15_107003
+gross_electricity_generation_conventional_thermal,15_107004
+gross_electricity_generation_wind,15_107005
+Gross electricity generation - Hydro (of which from pumped storage),15_107301
+Net electricity generation - Total,16_107100B
+Net electricity generation - Hydro,16_107101
+Net electricity generation of pure hydro plants,16_107101A
+Net electricity generation of mixed hydro plants,16_107101B
+Net electricity generation of pure pumped storage hydro plants,16_107101C
+Net electricity generation - Geothermal,16_107102
+Net electricity generation - Nuclear,16_107103
+Net electricity generation - Conventional Thermal,16_107104
+Net electricity generation from combustion of coal,16_107104A
+Net electricity generation from combustion of oil,16_107104B
+Net electricity generation from combustion of natural gas,16_107104C
+Net electricity generation from combustion of renewables,16_107104D
+Net electricity generation from combustion of other non-renewable fuels,16_107104E
+Net electricity generation - Wind,16_107105
+Net electricity generation from wind onshore,16_107105A
+Net electricity generation from wind offshore,16_107105B
+Net electricity generation from solar radiation,16_107105C
+Net electricity generation from solar photovoltaic installations,16_107105C1
+Net electricity generation from solar thermal plants,16_107105C2
+Net electricity generation from tide + wave + ocean and other non-combustible sources,16_107105D
+Net electricity generation not elsewhere specified,16_107105E
